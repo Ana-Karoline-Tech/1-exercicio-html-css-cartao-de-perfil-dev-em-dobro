@@ -112,4 +112,5 @@ Este projeto está sob a licença MIT - veja os detalhes em [LICENSE](LICENSE).
 
 **Primeiro exercício HTML + CSS do curso Dev em Dobro** 🚀
 
-![image](https://github.com/user-attachments/assets/ee11da10-c8d1-425c-99b4-cb230f512192)
+![image](https://github.com/user-attachments/assets/6968e704-3a3d-47b0-9976-6828a52b7134)
+
