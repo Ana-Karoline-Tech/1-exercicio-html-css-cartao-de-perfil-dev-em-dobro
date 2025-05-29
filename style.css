@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #008080;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.caixa-info {
+  width: 350px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 0 0 0;
+}
+
+.info-pessoal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.foto {
+  width: 190px;
+  height: 190px;
+  background-color: #008080;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.foto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
+
+.nome {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.idade {
+  font-weight: normal;
+  color: #555;
+  font-size: 16px;
+}
+
+.cidade {
+  color: #888;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.estatisticas {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  border-top: 1px solid #eee;
+  margin-top: 20px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.interacao {
+  display: block;
+  font-weight: bold;
+  font-size: 16px;
+  color: #333;
+}
+
+.legenda {
+  color: #888;
+  font-size: 13px;
+}
